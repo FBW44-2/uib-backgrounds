@@ -22,3 +22,7 @@ With contain, the image might not cover the entire container, as it should fit i
 
 By default backgrounds repeat in both horizonal and vertical direction.
 You might want to reset this by: `background-repeat: no-repeat`;
+
+## Resources
+
+-[The Secret of Great Gradient](https://uxplanet.org/the-secret-of-great-gradient-2f2c49ef3968)
